@@ -6,7 +6,7 @@
 <body>
 	<h1>My first web Page</h1>
 	<p>My website and art is meant to reflect the attention to beauty in the mundane while also highlighting the importance and depth of social issues reflecting my interest in activism and combining my aesthetics.</p>
-	<p><a href="Link to Image"></a></p>
+	<p><a href="https://github.com/MelisaAlvarez13/Medpl150/tree/main/Images"></a></p>
 
 </body>
 </html>
