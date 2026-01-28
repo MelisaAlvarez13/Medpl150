@@ -1,7 +1,0 @@
-<!doctype html>
-<html>
-<head>
-	<title>Image Page</title>
-	<img scr="https://github.com/MelisaAlvarez13/Medpl150/tree/main"
-</head>
-</html>
